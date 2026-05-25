@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "i2NyDHSERn4=",
+  "success": true,
+  "projectFilePath": "D:\\dotnetmeow\\College.Data\\College.Data.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\iamsp\\.nuget\\packages\\microsoft.openapi\\2.4.1\\microsoft.openapi.2.4.1.nupkg.sha512",
+    "C:\\Users\\iamsp\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\10.1.7\\swashbuckle.aspnetcore.swagger.10.1.7.nupkg.sha512"
+  ],
+  "logs": []
+}
