@@ -1,7 +1,0 @@
-<Solution>
-  <Project Path="../College.Common/College.Common.csproj" />
-  <Project Path="../College.Data/College.Data.csproj" />
-  <Project Path="../College.Service/College.Service.csproj" />
-  <Project Path="../College.Store/College.Store.csproj" />
-  <Project Path="College.API.csproj" />
-</Solution>
