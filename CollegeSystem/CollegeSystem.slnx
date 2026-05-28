@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="../CollegeSystem.Common/CollegeSystem.Common.csproj" Id="52161224-8851-41f3-9352-4aac17dd414b" />
+  <Project Path="../CollegeSystem.Data/CollegeSystem.Data.csproj" Id="93223428-b6ce-4e58-8dae-36fd5f1c0249" />
+  <Project Path="../CollegeSystem.Service/CollegeSystem.Service.csproj" Id="9e5e7023-6e65-4a2c-a47c-be42f26a88fa" />
+  <Project Path="../CollegeSystem.Store/CollegeSystem.Store.csproj" Id="a90f6b6d-583e-48fb-bfc9-98d007bd8ce5" />
+  <Project Path="CollegeSystem.API.csproj" />
+</Solution>
